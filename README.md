@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsgy-edge&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsgy-edge&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
 <!--
 **qsgy-edge/qsgy-edge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
